@@ -14,7 +14,7 @@ from modules.system_info import collect_system_info
 def banner():
     print("=" * 60)
     print(" Linux Privilege Escalation Automation Toolkit")
-    print(" Developed by: Abyss")
+    print(" Developed by: Amar Kant Yadav")
     print("=" * 60)
     print("[!] Educational use only. No exploitation performed.\n")
 
