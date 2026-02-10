@@ -1,6 +1,0 @@
-Linux Privilege Escalation Security Report
-==================================================
-
-Generated on: 2026-02-08 23:38:12.329871
-
-No privilege escalation issues detected.
